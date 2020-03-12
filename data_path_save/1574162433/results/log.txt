@@ -1,0 +1,421 @@
+2019-11-19 19:20:33,678:INFO: Namespace(CRF=True, batch_size=8, clip=5.0, demo_model='1574148669', demo_sentence='', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='train', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-11-19 19:20:41,675:INFO: 2019-11-19 19:20:39 epoch 1, step 1, loss: 80.45, global_step: 1
+2019-11-19 19:20:41,675:INFO: 2019-11-19 19:20:39 epoch 1, step 1, loss: 80.45, global_step: 1
+2019-11-19 19:20:42,243:INFO: ===============validation===============
+2019-11-19 19:20:42,243:INFO: ===============validation===============
+2019-11-19 19:20:42,992:INFO: processed 80 tokens with 2 phrases; found: 22 phrases; correct: 0.
+2019-11-19 19:20:42,992:INFO: processed 80 tokens with 2 phrases; found: 22 phrases; correct: 0.
+2019-11-19 19:20:42,992:INFO: accuracy:  61.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:42,992:INFO: accuracy:  61.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:42,992:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+2019-11-19 19:20:42,992:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  8
+2019-11-19 19:20:42,992:INFO: ORG: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+2019-11-19 19:20:42,992:INFO: ORG: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+2019-11-19 19:20:42,992:INFO: PER: precision:   0.00%; recall:   0.00%; FB1:   0.00  9
+2019-11-19 19:20:42,992:INFO: PER: precision:   0.00%; recall:   0.00%; FB1:   0.00  9
+2019-11-19 19:20:44,150:INFO: 2019-11-19 19:20:43 epoch 2, step 1, loss: 73.21, global_step: 2
+2019-11-19 19:20:44,150:INFO: 2019-11-19 19:20:43 epoch 2, step 1, loss: 73.21, global_step: 2
+2019-11-19 19:20:44,875:INFO: ===============validation===============
+2019-11-19 19:20:44,875:INFO: ===============validation===============
+2019-11-19 19:20:45,356:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:20:45,356:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:20:45,356:INFO: accuracy:  92.50%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:45,356:INFO: accuracy:  92.50%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:45,356:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:20:45,356:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:20:45,356:INFO: PER: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:20:45,356:INFO: PER: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:20:46,331:INFO: 2019-11-19 19:20:45 epoch 3, step 1, loss: 64.06, global_step: 3
+2019-11-19 19:20:46,331:INFO: 2019-11-19 19:20:45 epoch 3, step 1, loss: 64.06, global_step: 3
+2019-11-19 19:20:47,124:INFO: ===============validation===============
+2019-11-19 19:20:47,124:INFO: ===============validation===============
+2019-11-19 19:20:47,540:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:20:47,540:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:20:47,544:INFO: accuracy:  91.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:47,544:INFO: accuracy:  91.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:47,550:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:20:47,550:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:20:47,554:INFO: PER: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:20:47,554:INFO: PER: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:20:48,348:INFO: 2019-11-19 19:20:47 epoch 4, step 1, loss: 52.12, global_step: 4
+2019-11-19 19:20:48,348:INFO: 2019-11-19 19:20:47 epoch 4, step 1, loss: 52.12, global_step: 4
+2019-11-19 19:20:49,016:INFO: ===============validation===============
+2019-11-19 19:20:49,016:INFO: ===============validation===============
+2019-11-19 19:20:49,348:INFO: processed 80 tokens with 2 phrases; found: 0 phrases; correct: 0.
+2019-11-19 19:20:49,348:INFO: processed 80 tokens with 2 phrases; found: 0 phrases; correct: 0.
+2019-11-19 19:20:49,348:INFO: accuracy:  86.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:49,348:INFO: accuracy:  86.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:49,349:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+2019-11-19 19:20:49,349:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+2019-11-19 19:20:49,876:INFO: 2019-11-19 19:20:49 epoch 5, step 1, loss: 33.17, global_step: 5
+2019-11-19 19:20:49,876:INFO: 2019-11-19 19:20:49 epoch 5, step 1, loss: 33.17, global_step: 5
+2019-11-19 19:20:50,265:INFO: ===============validation===============
+2019-11-19 19:20:50,265:INFO: ===============validation===============
+2019-11-19 19:20:50,551:INFO: processed 80 tokens with 2 phrases; found: 0 phrases; correct: 0.
+2019-11-19 19:20:50,551:INFO: processed 80 tokens with 2 phrases; found: 0 phrases; correct: 0.
+2019-11-19 19:20:50,554:INFO: accuracy:  86.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:50,554:INFO: accuracy:  86.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:50,555:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+2019-11-19 19:20:50,555:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+2019-11-19 19:20:51,121:INFO: 2019-11-19 19:20:50 epoch 6, step 1, loss: 20.19, global_step: 6
+2019-11-19 19:20:51,121:INFO: 2019-11-19 19:20:50 epoch 6, step 1, loss: 20.19, global_step: 6
+2019-11-19 19:20:51,529:INFO: ===============validation===============
+2019-11-19 19:20:51,529:INFO: ===============validation===============
+2019-11-19 19:20:51,843:INFO: processed 80 tokens with 2 phrases; found: 0 phrases; correct: 0.
+2019-11-19 19:20:51,843:INFO: processed 80 tokens with 2 phrases; found: 0 phrases; correct: 0.
+2019-11-19 19:20:51,843:INFO: accuracy:  86.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:51,843:INFO: accuracy:  86.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:51,845:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+2019-11-19 19:20:51,845:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+2019-11-19 19:20:52,361:INFO: 2019-11-19 19:20:51 epoch 7, step 1, loss: 17.18, global_step: 7
+2019-11-19 19:20:52,361:INFO: 2019-11-19 19:20:51 epoch 7, step 1, loss: 17.18, global_step: 7
+2019-11-19 19:20:52,729:INFO: ===============validation===============
+2019-11-19 19:20:52,729:INFO: ===============validation===============
+2019-11-19 19:20:52,971:INFO: processed 80 tokens with 2 phrases; found: 0 phrases; correct: 0.
+2019-11-19 19:20:52,971:INFO: processed 80 tokens with 2 phrases; found: 0 phrases; correct: 0.
+2019-11-19 19:20:52,971:INFO: accuracy:  86.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:52,971:INFO: accuracy:  86.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:52,972:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+2019-11-19 19:20:52,972:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+2019-11-19 19:20:53,452:INFO: 2019-11-19 19:20:52 epoch 8, step 1, loss: 13.72, global_step: 8
+2019-11-19 19:20:53,452:INFO: 2019-11-19 19:20:52 epoch 8, step 1, loss: 13.72, global_step: 8
+2019-11-19 19:20:53,811:INFO: ===============validation===============
+2019-11-19 19:20:53,811:INFO: ===============validation===============
+2019-11-19 19:20:54,336:INFO: processed 80 tokens with 2 phrases; found: 0 phrases; correct: 0.
+2019-11-19 19:20:54,336:INFO: processed 80 tokens with 2 phrases; found: 0 phrases; correct: 0.
+2019-11-19 19:20:54,336:INFO: accuracy:  86.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:54,336:INFO: accuracy:  86.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:54,338:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+2019-11-19 19:20:54,338:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+2019-11-19 19:20:55,246:INFO: 2019-11-19 19:20:54 epoch 9, step 1, loss: 9.766, global_step: 9
+2019-11-19 19:20:55,246:INFO: 2019-11-19 19:20:54 epoch 9, step 1, loss: 9.766, global_step: 9
+2019-11-19 19:20:55,930:INFO: ===============validation===============
+2019-11-19 19:20:55,930:INFO: ===============validation===============
+2019-11-19 19:20:56,282:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:20:56,282:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:20:56,283:INFO: accuracy:  92.50%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:56,283:INFO: accuracy:  92.50%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:56,284:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:20:56,284:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:20:56,908:INFO: 2019-11-19 19:20:56 epoch 10, step 1, loss: 9.201, global_step: 10
+2019-11-19 19:20:56,908:INFO: 2019-11-19 19:20:56 epoch 10, step 1, loss: 9.201, global_step: 10
+2019-11-19 19:20:57,543:INFO: ===============validation===============
+2019-11-19 19:20:57,543:INFO: ===============validation===============
+2019-11-19 19:20:57,806:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:20:57,806:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:20:57,806:INFO: accuracy:  90.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:57,806:INFO: accuracy:  90.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:57,806:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:20:57,806:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:20:58,295:INFO: 2019-11-19 19:20:57 epoch 11, step 1, loss: 9.469, global_step: 11
+2019-11-19 19:20:58,295:INFO: 2019-11-19 19:20:57 epoch 11, step 1, loss: 9.469, global_step: 11
+2019-11-19 19:20:58,642:INFO: ===============validation===============
+2019-11-19 19:20:58,642:INFO: ===============validation===============
+2019-11-19 19:20:58,889:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:20:58,889:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:20:58,889:INFO: accuracy:  90.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:58,889:INFO: accuracy:  90.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:20:58,890:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:20:58,890:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:20:59,384:INFO: 2019-11-19 19:20:58 epoch 12, step 1, loss: 8.988, global_step: 12
+2019-11-19 19:20:59,384:INFO: 2019-11-19 19:20:58 epoch 12, step 1, loss: 8.988, global_step: 12
+2019-11-19 19:20:59,906:INFO: ===============validation===============
+2019-11-19 19:20:59,906:INFO: ===============validation===============
+2019-11-19 19:21:00,164:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:00,164:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:00,165:INFO: accuracy:  90.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:00,165:INFO: accuracy:  90.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:00,165:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:00,165:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:00,705:INFO: 2019-11-19 19:21:00 epoch 13, step 1, loss: 9.005, global_step: 13
+2019-11-19 19:21:00,705:INFO: 2019-11-19 19:21:00 epoch 13, step 1, loss: 9.005, global_step: 13
+2019-11-19 19:21:01,381:INFO: ===============validation===============
+2019-11-19 19:21:01,381:INFO: ===============validation===============
+2019-11-19 19:21:01,694:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:01,694:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:01,695:INFO: accuracy:  91.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:01,695:INFO: accuracy:  91.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:01,695:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:01,695:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:02,155:INFO: 2019-11-19 19:21:01 epoch 14, step 1, loss: 8.341, global_step: 14
+2019-11-19 19:21:02,155:INFO: 2019-11-19 19:21:01 epoch 14, step 1, loss: 8.341, global_step: 14
+2019-11-19 19:21:02,501:INFO: ===============validation===============
+2019-11-19 19:21:02,501:INFO: ===============validation===============
+2019-11-19 19:21:02,726:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:02,726:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:02,726:INFO: accuracy:  91.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:02,726:INFO: accuracy:  91.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:02,727:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:02,727:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:03,267:INFO: 2019-11-19 19:21:02 epoch 15, step 1, loss: 9.081, global_step: 15
+2019-11-19 19:21:03,267:INFO: 2019-11-19 19:21:02 epoch 15, step 1, loss: 9.081, global_step: 15
+2019-11-19 19:21:03,678:INFO: ===============validation===============
+2019-11-19 19:21:03,678:INFO: ===============validation===============
+2019-11-19 19:21:03,923:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:03,923:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:03,924:INFO: accuracy:  91.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:03,924:INFO: accuracy:  91.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:03,924:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:03,924:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:04,449:INFO: 2019-11-19 19:21:03 epoch 16, step 1, loss: 8.795, global_step: 16
+2019-11-19 19:21:04,449:INFO: 2019-11-19 19:21:03 epoch 16, step 1, loss: 8.795, global_step: 16
+2019-11-19 19:21:04,984:INFO: ===============validation===============
+2019-11-19 19:21:04,984:INFO: ===============validation===============
+2019-11-19 19:21:05,223:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:05,223:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:05,223:INFO: accuracy:  91.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:05,223:INFO: accuracy:  91.25%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:05,223:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:05,223:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:05,668:INFO: 2019-11-19 19:21:05 epoch 17, step 1, loss: 6.373, global_step: 17
+2019-11-19 19:21:05,668:INFO: 2019-11-19 19:21:05 epoch 17, step 1, loss: 6.373, global_step: 17
+2019-11-19 19:21:05,972:INFO: ===============validation===============
+2019-11-19 19:21:05,972:INFO: ===============validation===============
+2019-11-19 19:21:06,391:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:06,391:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:06,391:INFO: accuracy:  95.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:06,391:INFO: accuracy:  95.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:06,391:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:06,391:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:07,306:INFO: 2019-11-19 19:21:06 epoch 18, step 1, loss: 6.184, global_step: 18
+2019-11-19 19:21:07,306:INFO: 2019-11-19 19:21:06 epoch 18, step 1, loss: 6.184, global_step: 18
+2019-11-19 19:21:08,518:INFO: ===============validation===============
+2019-11-19 19:21:08,518:INFO: ===============validation===============
+2019-11-19 19:21:09,051:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:09,051:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 0.
+2019-11-19 19:21:09,053:INFO: accuracy:  95.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:09,053:INFO: accuracy:  95.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:09,055:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:09,055:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+2019-11-19 19:21:09,891:INFO: 2019-11-19 19:21:09 epoch 19, step 1, loss: 5.826, global_step: 19
+2019-11-19 19:21:09,891:INFO: 2019-11-19 19:21:09 epoch 19, step 1, loss: 5.826, global_step: 19
+2019-11-19 19:21:10,386:INFO: ===============validation===============
+2019-11-19 19:21:10,386:INFO: ===============validation===============
+2019-11-19 19:21:10,854:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 1.
+2019-11-19 19:21:10,854:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 1.
+2019-11-19 19:21:10,855:INFO: accuracy:  96.25%; precision:  50.00%; recall:  50.00%; FB1:  50.00
+2019-11-19 19:21:10,855:INFO: accuracy:  96.25%; precision:  50.00%; recall:  50.00%; FB1:  50.00
+2019-11-19 19:21:10,857:INFO: LOC: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+2019-11-19 19:21:10,857:INFO: LOC: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+2019-11-19 19:21:11,845:INFO: 2019-11-19 19:21:10 epoch 20, step 1, loss: 5.328, global_step: 20
+2019-11-19 19:21:11,845:INFO: 2019-11-19 19:21:10 epoch 20, step 1, loss: 5.328, global_step: 20
+2019-11-19 19:21:12,692:INFO: ===============validation===============
+2019-11-19 19:21:12,692:INFO: ===============validation===============
+2019-11-19 19:21:13,134:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 1.
+2019-11-19 19:21:13,134:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 1.
+2019-11-19 19:21:13,135:INFO: accuracy:  96.25%; precision:  50.00%; recall:  50.00%; FB1:  50.00
+2019-11-19 19:21:13,135:INFO: accuracy:  96.25%; precision:  50.00%; recall:  50.00%; FB1:  50.00
+2019-11-19 19:21:13,136:INFO: LOC: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+2019-11-19 19:21:13,136:INFO: LOC: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+2019-11-19 19:21:13,981:INFO: 2019-11-19 19:21:13 epoch 21, step 1, loss: 6.137, global_step: 21
+2019-11-19 19:21:13,981:INFO: 2019-11-19 19:21:13 epoch 21, step 1, loss: 6.137, global_step: 21
+2019-11-19 19:21:14,938:INFO: ===============validation===============
+2019-11-19 19:21:14,938:INFO: ===============validation===============
+2019-11-19 19:21:15,310:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 1.
+2019-11-19 19:21:15,310:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 1.
+2019-11-19 19:21:15,310:INFO: accuracy:  96.25%; precision:  50.00%; recall:  50.00%; FB1:  50.00
+2019-11-19 19:21:15,310:INFO: accuracy:  96.25%; precision:  50.00%; recall:  50.00%; FB1:  50.00
+2019-11-19 19:21:15,311:INFO: LOC: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+2019-11-19 19:21:15,311:INFO: LOC: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+2019-11-19 19:21:15,914:INFO: 2019-11-19 19:21:15 epoch 22, step 1, loss: 5.924, global_step: 22
+2019-11-19 19:21:15,914:INFO: 2019-11-19 19:21:15 epoch 22, step 1, loss: 5.924, global_step: 22
+2019-11-19 19:21:16,287:INFO: ===============validation===============
+2019-11-19 19:21:16,287:INFO: ===============validation===============
+2019-11-19 19:21:16,532:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 1.
+2019-11-19 19:21:16,532:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 1.
+2019-11-19 19:21:16,532:INFO: accuracy:  96.25%; precision:  50.00%; recall:  50.00%; FB1:  50.00
+2019-11-19 19:21:16,532:INFO: accuracy:  96.25%; precision:  50.00%; recall:  50.00%; FB1:  50.00
+2019-11-19 19:21:16,533:INFO: LOC: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+2019-11-19 19:21:16,533:INFO: LOC: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+2019-11-19 19:21:17,029:INFO: 2019-11-19 19:21:16 epoch 23, step 1, loss: 5.425, global_step: 23
+2019-11-19 19:21:17,029:INFO: 2019-11-19 19:21:16 epoch 23, step 1, loss: 5.425, global_step: 23
+2019-11-19 19:21:17,426:INFO: ===============validation===============
+2019-11-19 19:21:17,426:INFO: ===============validation===============
+2019-11-19 19:21:18,070:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:21:18,070:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:21:18,071:INFO: accuracy:  93.75%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:18,071:INFO: accuracy:  93.75%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:18,074:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:21:18,074:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:21:19,078:INFO: 2019-11-19 19:21:18 epoch 24, step 1, loss: 4.845, global_step: 24
+2019-11-19 19:21:19,078:INFO: 2019-11-19 19:21:18 epoch 24, step 1, loss: 4.845, global_step: 24
+2019-11-19 19:21:19,684:INFO: ===============validation===============
+2019-11-19 19:21:19,684:INFO: ===============validation===============
+2019-11-19 19:21:20,133:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:21:20,133:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:21:20,134:INFO: accuracy:  93.75%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:20,134:INFO: accuracy:  93.75%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:20,135:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:21:20,135:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:21:21,048:INFO: 2019-11-19 19:21:20 epoch 25, step 1, loss: 4.269, global_step: 25
+2019-11-19 19:21:21,048:INFO: 2019-11-19 19:21:20 epoch 25, step 1, loss: 4.269, global_step: 25
+2019-11-19 19:21:21,906:INFO: ===============validation===============
+2019-11-19 19:21:21,906:INFO: ===============validation===============
+2019-11-19 19:21:22,280:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:21:22,280:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:21:22,281:INFO: accuracy:  93.75%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:22,281:INFO: accuracy:  93.75%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:22,282:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:21:22,282:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:21:22,889:INFO: 2019-11-19 19:21:22 epoch 26, step 1, loss: 5.129, global_step: 26
+2019-11-19 19:21:22,889:INFO: 2019-11-19 19:21:22 epoch 26, step 1, loss: 5.129, global_step: 26
+2019-11-19 19:21:23,664:INFO: ===============validation===============
+2019-11-19 19:21:23,664:INFO: ===============validation===============
+2019-11-19 19:21:24,206:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:21:24,206:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:21:24,208:INFO: accuracy:  93.75%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:24,208:INFO: accuracy:  93.75%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:24,210:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:21:24,210:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:21:25,159:INFO: 2019-11-19 19:21:24 epoch 27, step 1, loss: 3.977, global_step: 27
+2019-11-19 19:21:25,159:INFO: 2019-11-19 19:21:24 epoch 27, step 1, loss: 3.977, global_step: 27
+2019-11-19 19:21:25,673:INFO: ===============validation===============
+2019-11-19 19:21:25,673:INFO: ===============validation===============
+2019-11-19 19:21:26,175:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:21:26,175:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:21:26,176:INFO: accuracy:  93.75%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:26,176:INFO: accuracy:  93.75%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:26,177:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:21:26,177:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:21:27,273:INFO: 2019-11-19 19:21:26 epoch 28, step 1, loss: 4.797, global_step: 28
+2019-11-19 19:21:27,273:INFO: 2019-11-19 19:21:26 epoch 28, step 1, loss: 4.797, global_step: 28
+2019-11-19 19:21:27,951:INFO: ===============validation===============
+2019-11-19 19:21:27,951:INFO: ===============validation===============
+2019-11-19 19:21:28,326:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:21:28,326:INFO: processed 80 tokens with 2 phrases; found: 1 phrases; correct: 0.
+2019-11-19 19:21:28,326:INFO: accuracy:  93.75%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:28,326:INFO: accuracy:  93.75%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+2019-11-19 19:21:28,326:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:21:28,326:INFO: LOC: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+2019-11-19 19:21:28,981:INFO: 2019-11-19 19:21:28 epoch 29, step 1, loss: 3.67, global_step: 29
+2019-11-19 19:21:28,981:INFO: 2019-11-19 19:21:28 epoch 29, step 1, loss: 3.67, global_step: 29
+2019-11-19 19:21:29,726:INFO: ===============validation===============
+2019-11-19 19:21:29,726:INFO: ===============validation===============
+2019-11-19 19:21:30,083:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 1.
+2019-11-19 19:21:30,083:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 1.
+2019-11-19 19:21:30,083:INFO: accuracy:  97.50%; precision:  50.00%; recall:  50.00%; FB1:  50.00
+2019-11-19 19:21:30,083:INFO: accuracy:  97.50%; precision:  50.00%; recall:  50.00%; FB1:  50.00
+2019-11-19 19:21:30,083:INFO: LOC: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+2019-11-19 19:21:30,083:INFO: LOC: precision:  50.00%; recall:  50.00%; FB1:  50.00  2
+2019-11-19 19:21:30,640:INFO: 2019-11-19 19:21:30 epoch 30, step 1, loss: 3.101, global_step: 30
+2019-11-19 19:21:30,640:INFO: 2019-11-19 19:21:30 epoch 30, step 1, loss: 3.101, global_step: 30
+2019-11-19 19:21:30,987:INFO: ===============validation===============
+2019-11-19 19:21:30,987:INFO: ===============validation===============
+2019-11-19 19:21:31,509:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:31,509:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:31,509:INFO: accuracy:  97.50%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:31,509:INFO: accuracy:  97.50%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:31,509:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:31,509:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:32,429:INFO: 2019-11-19 19:21:31 epoch 31, step 1, loss: 3.298, global_step: 31
+2019-11-19 19:21:32,429:INFO: 2019-11-19 19:21:31 epoch 31, step 1, loss: 3.298, global_step: 31
+2019-11-19 19:21:33,369:INFO: ===============validation===============
+2019-11-19 19:21:33,369:INFO: ===============validation===============
+2019-11-19 19:21:33,774:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:33,774:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:33,774:INFO: accuracy:  97.50%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:33,774:INFO: accuracy:  97.50%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:33,776:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:33,776:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:34,423:INFO: 2019-11-19 19:21:33 epoch 32, step 1, loss: 3.573, global_step: 32
+2019-11-19 19:21:34,423:INFO: 2019-11-19 19:21:33 epoch 32, step 1, loss: 3.573, global_step: 32
+2019-11-19 19:21:34,858:INFO: ===============validation===============
+2019-11-19 19:21:34,858:INFO: ===============validation===============
+2019-11-19 19:21:35,318:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:35,318:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:35,319:INFO: accuracy:  98.75%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:35,319:INFO: accuracy:  98.75%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:35,320:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:35,320:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:36,249:INFO: 2019-11-19 19:21:35 epoch 33, step 1, loss: 3.829, global_step: 33
+2019-11-19 19:21:36,249:INFO: 2019-11-19 19:21:35 epoch 33, step 1, loss: 3.829, global_step: 33
+2019-11-19 19:21:37,114:INFO: ===============validation===============
+2019-11-19 19:21:37,114:INFO: ===============validation===============
+2019-11-19 19:21:37,493:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:37,493:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:37,494:INFO: accuracy:  98.75%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:37,494:INFO: accuracy:  98.75%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:37,496:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:37,496:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:38,186:INFO: 2019-11-19 19:21:37 epoch 34, step 1, loss: 3.516, global_step: 34
+2019-11-19 19:21:38,186:INFO: 2019-11-19 19:21:37 epoch 34, step 1, loss: 3.516, global_step: 34
+2019-11-19 19:21:38,709:INFO: ===============validation===============
+2019-11-19 19:21:38,709:INFO: ===============validation===============
+2019-11-19 19:21:38,970:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:38,970:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:38,971:INFO: accuracy:  98.75%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:38,971:INFO: accuracy:  98.75%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:38,972:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:38,972:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:39,556:INFO: 2019-11-19 19:21:38 epoch 35, step 1, loss: 3.931, global_step: 35
+2019-11-19 19:21:39,556:INFO: 2019-11-19 19:21:38 epoch 35, step 1, loss: 3.931, global_step: 35
+2019-11-19 19:21:39,965:INFO: ===============validation===============
+2019-11-19 19:21:39,965:INFO: ===============validation===============
+2019-11-19 19:21:40,278:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:40,278:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:40,278:INFO: accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:40,278:INFO: accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:40,278:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:40,278:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:40,873:INFO: 2019-11-19 19:21:40 epoch 36, step 1, loss: 2.449, global_step: 36
+2019-11-19 19:21:40,873:INFO: 2019-11-19 19:21:40 epoch 36, step 1, loss: 2.449, global_step: 36
+2019-11-19 19:21:41,234:INFO: ===============validation===============
+2019-11-19 19:21:41,234:INFO: ===============validation===============
+2019-11-19 19:21:41,471:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:41,471:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:41,472:INFO: accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:41,472:INFO: accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:41,473:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:41,473:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:42,035:INFO: 2019-11-19 19:21:41 epoch 37, step 1, loss: 2.427, global_step: 37
+2019-11-19 19:21:42,035:INFO: 2019-11-19 19:21:41 epoch 37, step 1, loss: 2.427, global_step: 37
+2019-11-19 19:21:42,419:INFO: ===============validation===============
+2019-11-19 19:21:42,419:INFO: ===============validation===============
+2019-11-19 19:21:42,632:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:42,632:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:42,632:INFO: accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:42,632:INFO: accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:42,632:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:42,632:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:43,088:INFO: 2019-11-19 19:21:42 epoch 38, step 1, loss: 3.719, global_step: 38
+2019-11-19 19:21:43,088:INFO: 2019-11-19 19:21:42 epoch 38, step 1, loss: 3.719, global_step: 38
+2019-11-19 19:21:43,391:INFO: ===============validation===============
+2019-11-19 19:21:43,391:INFO: ===============validation===============
+2019-11-19 19:21:43,598:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:43,598:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:43,599:INFO: accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:43,599:INFO: accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:43,600:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:43,600:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:44,051:INFO: 2019-11-19 19:21:43 epoch 39, step 1, loss: 2.635, global_step: 39
+2019-11-19 19:21:44,051:INFO: 2019-11-19 19:21:43 epoch 39, step 1, loss: 2.635, global_step: 39
+2019-11-19 19:21:44,478:INFO: ===============validation===============
+2019-11-19 19:21:44,478:INFO: ===============validation===============
+2019-11-19 19:21:44,719:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:44,719:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:44,719:INFO: accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:44,719:INFO: accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:44,720:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:44,720:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:45,210:INFO: 2019-11-19 19:21:44 epoch 40, step 1, loss: 2.459, global_step: 40
+2019-11-19 19:21:45,210:INFO: 2019-11-19 19:21:44 epoch 40, step 1, loss: 2.459, global_step: 40
+2019-11-19 19:21:45,656:INFO: ===============validation===============
+2019-11-19 19:21:45,656:INFO: ===============validation===============
+2019-11-19 19:21:46,248:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:46,248:INFO: processed 80 tokens with 2 phrases; found: 2 phrases; correct: 2.
+2019-11-19 19:21:46,250:INFO: accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:46,250:INFO: accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+2019-11-19 19:21:46,253:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:21:46,253:INFO: LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  2
+2019-11-19 19:34:22,503:INFO: Namespace(CRF=True, batch_size=8, clip=5.0, demo_model='1574162433', demo_sentence='为了老人的心理健康，提园引入北京师范大学心理专业资源，开展形式各异的认知训练等保健服务。', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-11-19 19:34:26,185:INFO: Restoring parameters from .\data_path_save\1574162433\checkpoints/model-40
+2019-11-19 19:34:26,185:INFO: Restoring parameters from .\data_path_save\1574162433\checkpoints/model-40
+2019-11-19 19:37:50,192:INFO: Namespace(CRF=True, batch_size=8, clip=5.0, demo_model='1574162433', demo_sentence='为了老人的心理健康，提园引入北京师范大学心理专业资源，开展形式各异的认知训练等保健服务。', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-11-19 19:37:53,767:INFO: Restoring parameters from .\data_path_save\1574162433\checkpoints/model-40
+2019-11-19 19:37:53,767:INFO: Restoring parameters from .\data_path_save\1574162433\checkpoints/model-40
+2019-11-19 19:44:20,510:INFO: Namespace(CRF=True, batch_size=8, clip=5.0, demo_model='1574162433', demo_sentence='为了老人的心理健康，提园引入北京师范大学心理专业资源，开展形式各异的认知训练等保健服务。', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-11-19 19:44:23,988:INFO: Restoring parameters from .\data_path_save\1574162433\checkpoints/model-40
+2019-11-19 19:44:23,988:INFO: Restoring parameters from .\data_path_save\1574162433\checkpoints/model-40
+2019-11-20 09:34:51,371:INFO: Namespace(CRF=True, batch_size=8, clip=5.0, demo_model='1574162433', demo_sentence='为了老人的心理健康，提园引入北京师范大学心理专业资源，开展形式各异的认知训练等保健服务。', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-11-20 09:34:54,918:INFO: Restoring parameters from .\data_path_save\1574162433\checkpoints/model-40
+2019-11-20 09:34:54,918:INFO: Restoring parameters from .\data_path_save\1574162433\checkpoints/model-40
